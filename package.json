@@ -1,0 +1,29 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-ZHG/Forkify.git"
+  },
+  "author": "HZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-ZHG/Forkify/issues"
+  },
+  "homepage": "https://github.com/Jason-ZHG/Forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.1.1",
+    "parcel": "^2.1.1"
+  },
+  "dependencies": {
+    "core-js": "^3.20.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
