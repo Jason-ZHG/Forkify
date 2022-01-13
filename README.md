@@ -24,4 +24,3 @@ Forkify is a recipe finding web application which uses data from the Forkify API
 
 ![website1](./website_capture/website1.png)
 ![website2](./website_capture/website2.png)
-=======
