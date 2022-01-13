@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Forkify - A Recipe Finding Web app
 
 # Link
@@ -23,12 +22,6 @@ Forkify is a recipe finding web application which uses data from the Forkify API
 
 # Screen shots
 
-![website1](./website_capture/website1.jpg)
-![website2](./website_capture/website2.jpg)
+![website1](./website_capture/website1.png)
+![website2](./website_capture/website2.png)
 =======
-# Forkify
-This is a project for practicing ES6 Javascript.
-
-The app is hosted on Netlify:
-https://forkify-jasonz.netlify.app/
->>>>>>> 42751a3f1ca2e4d3f6477047af778d6dac41f77c
